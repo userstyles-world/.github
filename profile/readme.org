@@ -1,1 +1,2 @@
-* UserStyles.world
+* [[https://userstyles.world][UserStyles.world]]
+⭐ Website to browse and share UserCSS userstyles. A modern replacement for UserStyles.org made by the userstyles community. 
